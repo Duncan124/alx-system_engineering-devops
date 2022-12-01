@@ -1,2 +1,2 @@
 #1/bin/bash
-chmod ugo+x hello
+chmod ugo+xhello
