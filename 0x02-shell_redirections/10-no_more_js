@@ -1,0 +1,2 @@
+#!/bin/bag
+find . -type f -name "*.js" -delete
